@@ -1,4 +1,4 @@
-# Programming 2 - Lab 66
+# Programming 2 - Lab 16
 
 This template repository is the starter project for Programming 2 Lab 16. Written in Java, and tested with Gradle/JUnit.
 
