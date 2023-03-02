@@ -4,7 +4,7 @@ package com.prog2.labs;
  *
  */
 
-public class LabFifteen {
+public class LabSixteen {
 
 	/**
 	 * Write your test code below in the main (optional).
